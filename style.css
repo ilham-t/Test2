@@ -1,0 +1,17 @@
+.one {
+        font-size: 32px;
+        color: #06b6d4; /* Tailwind cyan */
+        vertical-align: middle;
+    }
+    
+
+    .one:hover {
+        color: #0891b2;
+        transform: scale(1.1);
+        transition: all 0.3s;
+    }
+.two {
+        font-size: 15px;
+        color: gray; /* Tailwind cyan */
+ 
+}
