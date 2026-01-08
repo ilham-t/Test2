@@ -5,13 +5,13 @@
     }
     
 
-    .one:hover {
+    .two:hover {
         color: #0891b2;
         transform: scale(1.1);
         transition: all 0.3s;
     }
 .two {
-        font-size: 15px;
+        font-size: 50px;
         color: blue; /* Tailwind cyan */
  
 }
